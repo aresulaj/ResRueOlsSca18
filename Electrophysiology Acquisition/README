@@ -1,0 +1,3 @@
+README.txt for Electrophysiology Acquisition Code in Matlab written by Shawn R. Olsen.  
+
+To run code, change settings in Settings/DAQ PC/RigDefs.m. Run daqctlr.m.
