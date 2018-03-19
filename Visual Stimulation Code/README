@@ -1,0 +1,5 @@
+README.txt for Visual Stimulation Code in Matlab written by Shawn R. Olsen. 
+
+Code is based on and requires open source toolbox PsychToolbox. 
+
+To run code, change settings in rigSpecific.m. Run vStimController.m.
